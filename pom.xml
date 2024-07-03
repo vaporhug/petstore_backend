@@ -8,6 +8,7 @@
         <version>3.3.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+    <packaging>war</packaging>
     <groupId>org.csu.vapor</groupId>
     <artifactId>petstore_backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
@@ -56,6 +57,7 @@
         </dependency>
 
     </dependencies>
+
 
     <build>
         <plugins>
